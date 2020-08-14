@@ -65,6 +65,7 @@ RUN pip install --upgrade pip && pip install \
     autopep8 \
     beautifulsoup4 \
     Django \
+    Flask \
     folium \
     ipython \
     janome \
